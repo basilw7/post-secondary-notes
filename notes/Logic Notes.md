@@ -18,8 +18,8 @@
 
 * Statements that can be assigned a **truth value**
 
-  * True (T)
-  * False (F)
+  * True $T$
+  * False $F$
 
 ---
 
@@ -65,9 +65,9 @@ flowchart LR
 
 ## Truth Functional Classification
 
-* **Tautology (T)** → always true
-* **Contradiction (F)** → always false
-* **Contingent (I)** → depends on truth assignment
+* **Tautology $T$** → always true
+* **Contradiction $F$** → always false
+* **Contingent $I$** → depends on truth assignment
 
 ---
 
