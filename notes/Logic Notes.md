@@ -27,15 +27,15 @@
 
 1. **Law of Identity**
 
-   * ( P \equiv P )
+   * $P \equiv P$
 
 2. **Law of Non-Contradiction**
 
-   * ( \neg (P \land \neg P) )
+   * $\neg (P \land \neg P)$
 
 3. **Law of Excluded Middle**
 
-   * ( P \lor \neg P )
+   * $P \lor \neg P$
 
 ---
 
@@ -73,9 +73,9 @@ flowchart LR
 
 ## Key Truth Rule
 
-* Conditional ( P \rightarrow Q ) is false **only when**:
+* Conditional $P \rightarrow Q$ is false **only when**:
 
-  * ( P = T ), ( Q = F )
+  * $P = T$, $Q = F$
 
 ---
 
@@ -170,33 +170,33 @@ flowchart TD
 
 #### Modus Ponens
 
-* ( P \rightarrow Q )
-* ( P )
-* ∴ ( Q )
+* $P \rightarrow Q$
+* $P$
+* ∴ $Q$
 
 ---
 
 #### Modus Tollens
 
-* ( P \rightarrow Q )
-* ( \neg Q )
-* ∴ ( \neg P )
+* $P \rightarrow Q$
+* $\neg Q$
+* ∴ $\neg P$
 
 ---
 
 ### Disjunctive Syllogism
 
-* ( P \lor Q )
-* ( \neg P )
-* ∴ ( Q )
+* $P \lor Q$
+* $\neg P$
+* ∴ $Q$
 
 ---
 
 ### Hypothetical Syllogism
 
-* ( P \rightarrow Q )
-* ( Q \rightarrow R )
-* ∴ ( P \rightarrow R )
+* $P \rightarrow Q$
+* $Q \rightarrow R$
+* ∴ $P \rightarrow R$
 
 ---
 
@@ -221,7 +221,7 @@ flowchart LR
 
 ### Example
 
-* ( P \land Q \Rightarrow P )
+* $P \land Q \Rightarrow P$
 
 ---
 
@@ -241,20 +241,20 @@ flowchart LR
 
 ### DeMorgan’s Laws
 
-* ( \neg (P \land Q) \equiv \neg P \lor \neg Q )
-* ( \neg (P \lor Q) \equiv \neg P \land \neg Q )
+* $\neg (P \land Q) \equiv \neg P \lor \neg Q$
+* $\neg (P \lor Q) \equiv \neg P \land \neg Q$
 
 ---
 
 ### Transposition
 
-* ( P \rightarrow Q \equiv \neg Q \rightarrow \neg P )
+* $P \rightarrow Q \equiv \neg Q \rightarrow \neg P$
 
 ---
 
 ### Material Implication
 
-* ( P \rightarrow Q \equiv \neg P \lor Q )
+* $P \rightarrow Q \equiv \neg P \lor Q$
 
 ---
 
@@ -369,8 +369,8 @@ flowchart TD
 
 ### Quantifiers
 
-* Universal: ( \forall x )
-* Existential: ( \exists x )
+* Universal: $\forall x$
+* Existential: $\exists x$
 
 ---
 
@@ -378,11 +378,11 @@ flowchart TD
 
 * Universal:
 
-  * ( \forall x (P(x) \rightarrow Q(x)) )
+  * $\forall x (P(x) \rightarrow Q(x))$
 
 * Existential:
 
-  * ( \exists x (P(x) \land Q(x)) )
+  * $\exists x (P(x) \land Q(x))$
 
 ---
 
@@ -399,11 +399,11 @@ flowchart TD
 
 * Sufficient:
 
-  * ( A \rightarrow B )
+  * $A \rightarrow B$
 
 * Necessary:
 
-  * ( B \rightarrow A )
+  * $B \rightarrow A$
 
 ---
 
