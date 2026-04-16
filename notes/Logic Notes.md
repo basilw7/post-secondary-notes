@@ -448,22 +448,99 @@ flowchart LR
     Word --> Definition --> Meaning --> Interpretation
 ```
 
----
-
 ## 15. Informal Fallacies
 
-1. Ad Ignorantiam
-2. Ad Verecundiam
-3. Ad Hominem
-4. Ad Populum
-5. Ad Misericordiam
-6. Ad Baculum
-7. Ignoratio Elenchi
-8. Complex Question
-9. Petitio Principii
-10. Equivocation
+### Ad Ignorantiam (Appeal to Ignorance)
+
+* **Definition:** Claims something is true (or false) because it has not been proven otherwise.
+* **Example:**
+
+  * “No one has proven ghosts don’t exist, so they must be real.”
+
+### Ad Verecundiam (Appeal to Authority)
+
+* **Definition:** Relies on authority instead of evidence, especially when the authority is not an expert in the field.
+* **Example:**
+
+  * “A famous actor says this diet works, so it must be effective.”
+
+### Ad Hominem (Attack on the Person)
+
+* **Definition:** Attacks the person instead of addressing the argument.
+* **Example:**
+
+  * “You can’t trust his argument on climate change—he’s not even a good student.”
+
+### Ad Populum (Appeal to Popularity)
+
+* **Definition:** Claims something is true because many people believe it.
+* **Example:**
+
+  * “Everyone uses this product, so it must be the best.”
+
+### Ad Misericordiam (Appeal to Pity)
+
+* **Definition:** Uses sympathy or emotion instead of evidence.
+* **Example:**
+
+  * “You should pass me—I had a really stressful week.”
+
+### Ad Baculum (Appeal to Force)
+
+* **Definition:** Uses threats or pressure to force acceptance of a conclusion.
+* **Example:**
+
+  * “Agree with this policy, or you might lose your job.”
+
+### Ignoratio Elenchi (Irrelevant Conclusion)
+
+* **Definition:** Argument proves a different conclusion than the one intended.
+* **Example:**
+
+  * “We should ban cars because pollution is bad.”
+    *(Conclusion doesn’t directly follow from premise.)*
+
+### Complex Question (Loaded Question)
+
+* **Definition:** A question that assumes something controversial or unproven.
+* **Example:**
+
+  * “Have you stopped cheating on exams?”
+    *(Assumes cheating already occurred.)*
+
+### Petitio Principii (Begging the Question)
+
+* **Definition:** The conclusion is assumed in the premises (circular reasoning).
+* **Example:**
+
+  * “This law is just because it is the right thing to do.”
+
+### Equivocation
+
+* **Definition:** Uses a word with multiple meanings to mislead.
+* **Example:**
+
+  * “Feathers are light. What is light cannot be dark. Therefore, feathers cannot be dark.”
 
 ---
+
+## Quick Summary Table
+
+| Fallacy           | Core Error                |
+| ----------------- | ------------------------- |
+| Ad Ignorantiam    | Lack of evidence = proof  |
+| Ad Verecundiam    | Misused authority         |
+| Ad Hominem        | Attacks person            |
+| Ad Populum        | Popularity = truth        |
+| Ad Misericordiam  | Emotion replaces evidence |
+| Ad Baculum        | Threat replaces reasoning |
+| Ignoratio Elenchi | Wrong conclusion          |
+| Complex Question  | Hidden assumption         |
+| Petitio Principii | Circular reasoning        |
+| Equivocation      | Ambiguous language        |
+
+---
+
 
 ## Summary
 
